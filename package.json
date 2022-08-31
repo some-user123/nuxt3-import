@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "nuxi prepare && nuxi typecheck"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.8"
+  },
+  "dependencies": {
+    "typescript": "^4.8.2",
+    "vue-tsc": "^0.40.5"
+  }
+}
